@@ -1,3 +1,7 @@
 
 venv/
 db.kitchen
+
+kitchen/__pycache__/
+recipes/__pycache__/
+recipes/migrations/__pycache__/
